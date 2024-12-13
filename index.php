@@ -273,7 +273,9 @@ $loginUrl = $client->createAuthUrl();
     <div class="navbar">
         <div class="logo">AZUL</div>
         <ul class="links">
+            <li><a href="landingpage.php">Home</a></li>
             <li><a href="author.php">About Us</a></li>
+            <li><a href="index.php">Sign In</a></li>
         </ul>
     </div>
     <div class="form-container">
@@ -312,7 +314,7 @@ $loginUrl = $client->createAuthUrl();
             </button>
         </div>
         <p class="signup">Don't have an account?
-            <a href="#">Sign up</a>
+            <a href="signup.php">Sign up</a>
         </p>
     </div>
 </body>

@@ -1,8 +1,8 @@
 <?php
 // Konfigurasi koneksi
-$servername = "fpcc.mysql.database.azure.com";
-$username = "azul";  // Ganti dengan username yang dibuat
-$password = "Greatazul1";        // Ganti dengan password yang dibuat
+$servername = "localhost";
+$username = "admin";  // Ganti dengan username yang dibuat
+$password = "123";        // Ganti dengan password yang dibuat
 $dbname = "perpustakaan";         // Nama database yang dibuat
 
 // Membuat koneksi

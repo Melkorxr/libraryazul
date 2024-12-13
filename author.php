@@ -10,7 +10,6 @@
 <style>
     body {
         margin: 0;
-        font-family: Arial, sans-serif;
         background-color: #f3f4f6;
         background-image: url('bg6.jpg');
         color: #1f2937;
@@ -129,11 +128,14 @@
     <div class="navbar">
         <div class="logo">AZUL</div>
         <ul class="links">
+            <li><a href="landingpage.php">Home</a></li>
+            <li><a href="author.php">About Us</a></li>
             <li><a href="index.php">Sign In</a></li>
         </ul>
     </div>
     <div class="about-container">
         <h1 class="about-title">ABOUT US</h1>
+        <hr>
         <p class="about-description">We are a dedicated team striving to revolutionize the library experience. Together, we bring innovation, passion, and excellence to every project. Our mission is to create a seamless, engaging, and user-friendly platform. Driven by collaboration, we aim to inspire and empower our community. Meet the brilliant minds behind our journey!</p>
         <div class="cards">
             <!-- Card 1 -->
